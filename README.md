@@ -1,5 +1,5 @@
 # Wisconsin Card Sorting Test
-Python Implementation of the Wisconsin Card Sorting Test.
+Python Implementation of the [Wisconsin Card Sorting Test](https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test).
 
 The WhisconsinCard() takes 2 input:
 - NumTrial: Number of times we want the rule of the game to change 
