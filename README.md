@@ -1,7 +1,7 @@
 # Wisconsin Card Sorting Test
 Python Implementation of the [Wisconsin Card Sorting Test](https://en.wikipedia.org/wiki/Wisconsin_Card_Sorting_Test).
 
-The WhisconsinCard() takes 2 input:
+The WhisconsinCard() class takes 2 input:
 - NumTrial: Number of times we want the rule of the game to change 
 - NumExec: Number of trials with the same rule. If NumExec==0, the number of trials will be randomly generated.
 The output of the class has to be executed following the shuffleCardwRule() method, resulting in the following items:
